@@ -1,4 +1,36 @@
-## Java DSA Practising
+# 🚀 DSA Solutions (GFG + LeetCode)
 
+Welcome to my **Data Structures & Algorithms repository**!  
+This repo contains solutions to popular problems from **GeeksforGeeks (GFG)** and **LeetCode**, implemented in **Java**.
 
-this is for my dsa practise on various platforms like gfg leetcode and 
+---
+
+## 📌 About
+
+- 📚 Practicing DSA for **placements & internships**
+- 💻 Solutions written in **clean and readable Java**
+- 🧠 Focus on **problem-solving patterns (DP, Recursion, Greedy, etc.)**
+- ⚡ Includes **optimized approaches + explanations**
+
+---
+
+## 🎯 Goal
+Crack product-based companies
+Strengthen problem-solving skills
+Build strong DSA foundation
+
+---
+
+## 📈 Progress
+✔️ Consistent problem solving
+🔄 Adding new problems regularly
+
+---
+
+## 🧠 Concepts Used
+🔁 Recursion
+📊 Dynamic Programming (DP)
+⚡ Space Optimization
+🧩 Greedy Approach
+🔢 Fibonacci Pattern
+
