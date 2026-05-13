@@ -1,3 +1,4 @@
+//best approach with best time and space complexity
 class Solution {
     public int minMoves(int[] nums, int k) {
         int n = nums.length;
