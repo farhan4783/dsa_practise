@@ -1,3 +1,5 @@
+//best approach with best time and spce complexity
+
 class Solution {
     public boolean isGood(int[] nums) {
         int len = nums.length;
